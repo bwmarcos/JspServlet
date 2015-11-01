@@ -4,7 +4,7 @@ Aplicação Utilizando JSP com Banco Oracle
 
 Queries do banco
 
-
+```
 DROP TABLE cliente cascade constraints;
 DROP TABLE endereco cascade constraints;
 
@@ -43,5 +43,5 @@ select idCliente,
   from cliente
  inner join endereco
     on idCliente = id_cliente;
-
+```
 
