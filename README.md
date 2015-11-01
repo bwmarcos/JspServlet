@@ -4,7 +4,7 @@ Aplicação Utilizando JSP com Banco Oracle
 
 Queries do banco
 
-```
+```sql
 DROP TABLE cliente cascade constraints;
 DROP TABLE endereco cascade constraints;
 
