@@ -1,8 +1,9 @@
 # JspServlet
-Aplicação Utilizando JSP com Banco Oracle
+
+Application Using JSP with Oracle Database
 
 
-Queries do banco
+Queries of Database
 
 ```sql
 DROP TABLE cliente cascade constraints;
